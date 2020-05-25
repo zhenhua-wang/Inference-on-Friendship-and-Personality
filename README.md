@@ -50,7 +50,7 @@ Given the network structure of our data, the model we considered in this project
 
 The AME model is given by:
 
-<img src="/Users/sicongzhao/Library/Mobile Documents/com~apple~CloudDocs/Project/Daily ML/20200524-personality-analysis/git/assets/math.png" alt="math" style="zoom:80%;" />
+<img src="./assets/math.png" alt="math" style="zoom:80%;" />
 
 where $m_{i,j} = \beta^Tx_{i,j}, a=(a_1,...,a_n), b=(b_1,...,b_n)$ and $U$and $V$ are $n ⨉ r$ matrices with ith row equal to $u_i$ and $v_i$ respectively, with $r$ being the length of each of these latent vectors . $x_{i,j}$ is a p-dimensional vector of regressors and $\beta$ is a vector of regression coefficients to be estimated. The vector $x_{i,j}$ may contain variables that are specific to nodes or pairs of nodes. For example, it could contain sender specific characteristics or receiver specific characteristics, dyadic specific characteristics. $a_i$ and $b_j$ are two additive effects, row effect and column effect. Finally, AME also contains a noise matrix E. (Hoff et al, 2017)
 
