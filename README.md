@@ -12,7 +12,7 @@ This project is inspired by the following question: How do the Big Five personal
 
 As a result, we have found a significant negative relationship between the friendship rating and the score of the personality trait Agreeableness. 
 
-This finding seems counterintuitive, but after further investigation we realized participants with higher Agreeableness scores tend to have a smaller friend circle, thus leading to the lower average friendship rating.
+This finding seems counterintuitive, but after further investigation we realized participants with higher Agreeableness scores are less likely to get familiar with the others, thus leading to the lower average friendship rating.
 
 
 
